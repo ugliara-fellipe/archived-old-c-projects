@@ -1,0 +1,155 @@
+/*
+Copyright 2021 Fellipe Augusto 
+
+Use of this source code is governed by an ISC license that can be found in 
+the LICENSE file at https://github.com/ugliara-fellipe/ugliara-fellipe.github.io
+*/
+
+.post-card {
+  background-color: #fafafa;
+  border: 1px solid #afafaf;
+  border-radius: 8px;
+  padding: 0.5rem;
+  position: relative;
+  margin-top: 20px;
+}
+
+.offsite-card {
+  background-color: #fafafa;
+  border: 1px solid #afafaf;
+  padding: 0.5rem;
+  position: relative;
+  margin-top: 20px;
+}
+
+.note-card {
+  background-color: #9e9e9e;
+  color: #ffffff;
+  padding: 0.5rem;
+  position: relative;
+  margin-top: 20px;
+}
+
+.home-layout {
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 640px) {
+  .home-layout {
+    display: grid;
+    grid-column-gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+
+  .home-layout .size-tiny {
+    grid-column: auto / span 1;
+  }
+
+  .home-layout .size-small {
+    grid-column: auto / span 2;
+  }
+
+  .home-layout .size-normal {
+    grid-column: auto / span 3;
+  }
+
+  .home-layout .size-large {
+    grid-column: auto / span 4;
+  }
+
+  .home-layout .size-huge {
+    grid-column: auto / span 5;
+  }
+
+  .home-layout .size-full {
+    grid-column: 1 / -1;
+  }
+}
+
+.content {
+  font-family: sans-serif;
+}
+
+.content h1 {
+  font-size: 19px;
+  font-variant: small-caps;
+  font-weight:normal;
+}
+
+.content p {
+  font-size: 14px;
+  font-family: serif;
+  margin-top: 15px;
+}
+
+.content .time {
+  font-size: 13px;
+  font-family: serif;
+}
+
+.content .tag {
+  font-size: 13px;
+  font-family: serif;
+}
+
+.text-only {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: start;
+  width:100%;
+  height: 100%;
+  line-height: 150%;
+}
+
+.text-only p {
+  margin-top: 0px;
+}
+
+.content .text p {
+  font-size: 14px;
+  font-family: serif;
+  margin-top: 15px;
+}
+
+.content .text {
+  margin-top: 15px;
+  line-height: 150%;
+}
+
+.content .text a {
+  font-size: 20px;
+  font-variant: small-caps;
+}
+
+.content .text p a {
+  font-size: 19px;
+  font-variant: small-caps;
+}
+
+@media screen and (min-width: 360px) {
+  .info {
+    display: grid;
+    grid-column-gap: 10px;
+    grid-row-gap: 15px;
+    grid-template-rows: 2;
+    grid-template-columns: 80px 1fr;
+  }
+
+  .info .text {
+    grid-column: 1 / 3;
+    grid-row: 2;
+    margin-top: 0px;
+  }
+
+  .info .time {
+    grid-column: 2;
+    grid-row: 1;
+    text-align: end;
+  }
+
+  .info .tag {
+    grid-column: 1;
+    grid-row: 1;
+  }
+}

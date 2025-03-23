@@ -1,0 +1,56 @@
+#
+# Copyright 2021 Fellipe Augusto Ugliara
+#
+# Content on this file is licensed under the Creative Commons Attribution 
+# 4.0 International License. To view a copy of this license: visit 
+# http://creativecommons.org/licenses/by/4.0/, or search for the CONTENT 
+# file at https://github.com/ugliara-fellipe/weblog.pages
+#
+
+In progress ... talk about free books open and public domain
+
+[Elementary Mathematics]
+
+List
+
+[Foundations and Philosophy]
+
+List
+
+[Pure Mathematics]
+
+List
+
+[History and Recreation]
+
+List
+
+Test of elements
+
+It is a +italic+ break ^
+It is a *bold* {Text ~ url}
+
+++First Item in Ordered List (italic, bold, link)
+++Second Item in Ordered List
+
+**First Item in Unordered List (italic, bold, link)
+**Second Item in Unordered List
+
+[Title]
+
+[[SubTitle]]
+
++++
+Quote Text (italic, bold, link, break)
++++
+
+***
+Alert Text (italic, bold, link, break)
+***
+
+Commom ^
+! "$%&'(),-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ_`abcdefghijklmnopqrstuvwxyz|
+
+Special ^
+\\ \+ \* \^ \~ \[ \] \# \{ \}
+

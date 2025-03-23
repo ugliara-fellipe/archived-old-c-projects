@@ -1,0 +1,8 @@
+# Build
+*.html
+
+# Latex
+*.aux
+*.log
+*.gz
+*.toc

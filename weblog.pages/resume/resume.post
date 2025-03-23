@@ -1,0 +1,104 @@
+#
+# Copyright 2020 Fellipe Augusto Ugliara
+#
+# Content on this file is licensed under the Creative Commons Attribution 
+# 4.0 International License. To view a copy of this license: visit 
+# http://creativecommons.org/licenses/by/4.0/, or search for the CONTENT 
+# file at https://github.com/ugliara-fellipe/weblog.pages
+#
+
+[[Fellipe Augusto Ugliara]]
+
+*Email*: ugliara.fellipe@gmail.com
+
+[Resume]
+
+Software development in several areas such as mining, airports, 
+health, manufacturing, and finance. Experience with different systems, 
+like critical applications, cloud computing, and embedded devices. 
+The specialties are Programming Languages, Compilers, Interpreters, 
+Architecture of Software, Open-source Projects, and Research Projects.
+
+[Education]
+
+*Master of Computer Science* ^
+(+2016 - 2018; Universidade Federal de Sao Carlos+)^
+This graduate covered topics of Computer Science with an emphasis on 
+Programming Languages. The research topic was metaprogramming, 
+and the courses studied were programming languages, computer theory, 
+compilers, and algorithms.
+
+*Bachelor of Computer Science* ^
+(+2006 - 2010; Universidade Federal de Lavras+)^
+This undergraduate covered the topics of Computer Science with 
+an emphasis on Embedded Systems. In the two early years were studied
+mathematics courses like logic, calculus, algebra and computer theory, 
+while the computer courses were focused on algorithms and programming 
+languages. The last two years were directed to courses like operational 
+systems, compilers, computer architecture, and embedded software.
+
+[Experience]
+
+*Research & Development* ^
+(+December, 2020 - Present; FIT, Sorocaba+)^
+The main activities of this position are researching new technologies, 
+transferring knowledge to project teams, developing prototypes, conducting 
+training, and writing technical documents. The languages used are C, C\+\+, 
+Python, SQL, C\#, JavaScript, Haskell, and Latex.
+
+*Software Architect* ^
+(+September, 2014 - November, 2020+)^
+Defining architecture and leading teams are the main activity in this 
+function. Payment and manufacturing systems are the areas of major 
+projects. The teams usually involve from five to ten people, and the 
+programming languages used are C, C\+\+, Python, SQL, C\#, Java, and JavaScript.
+
+*Senior Analyst Developer* ^
+(+August, 2013 - August, 2014; FIT, Sorocaba+) ^
+During this period, applications for payment terminals (POS) were 
+developed. Systems were also created to automate POS manufacturing 
+steps. The main programming languages used were C, C\+\+, Python, and Lua.
+
+*Analyst Developer* ^
+(+July, 2012 - July, 2013; Grupo Mosaico, Santo Andre+)^
+In this function, embedded software was developed for medical equipment. 
+The microcontrollers of PIC family were used in these devices; 
+auxiliary software that communicated with the embedded devices were 
+implemented in QT. The programming languages used were C, and C\+\+.
+
+*Analyst Developer* ^
+(+July, 2011 - July, 2012; Fundacao Ezute, Sao Paulo+)^
+In this work, a system of allocation aircraft landings was developed. 
+This critical system helped flight controllers decide which order the 
+aircraft should land on and how they would travel from the airport to a 
+particular landing gate. In it, geo-referenced aircraft location modules 
+and scheduling algorithms were implemented. The programming language 
+used in the project was Java.
+
+*Junior Analyst Developer* ^
+(+September, 2010 - June, 2011; Compsis, S. J. dos Campos+)^
+A scripting language and its interpreter were designed and 
+implemented. The interpreter was embedded in a device that monitoring 
+construction vehicles. It allowed to change the behavior of the device, 
+replacing the script that was interpreted, without its firmware being 
+rewritten. The programming languages involved were C, and C\+\+.
+
+*Trainee Developer* ^
+(+November, 2009 - July, 2010; Hexagon Mining, Lavras+)^
+In this activity, a monitoring and tracking device was developed for 
+mining vehicles. This device was designed with an ARM microcontroller, 
+and a Linux distribution was compiled from scratch. The programming 
+languages used were C, C\+\+, Shell Script, and Python.
+
+*Trainee Tester* ^
+(+July, 2009 - November, 2009; Hexagon Mining, Lavras+)^
+Source code validations and tests of embedded systems were performed 
+in this job. The tests were applied on devices that monitor and 
+track mining vehicles and equipment. The programming 
+languages involved were C, Pascal, and SQL.
+
+[Languages]
+
+Portuguese (+Native+)^
+English (+Professional Working+)
+

@@ -1,0 +1,96 @@
+/*
+Copyright 2020 Fellipe Augusto Ugliara
+
+Use of this source code is governed by an ISC license that can be found
+in the LICENSE file at https://github.com/ugliara-fellipe/weblog.pages
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 15px;
+  color: #555;
+  background-image: linear-gradient(#ffffff, #fafcfd);
+  font-family: serif;
+}
+
+body {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 790px;
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+a:visited {
+  color: #407fc7;
+}
+
+a:link {
+  color: #5995da;
+}
+
+header {
+  margin-top: 20px;
+  font-family: sans-serif;
+  font-variant: small-caps;
+}
+
+header a {
+  font-size: 30px;
+}
+
+header div {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  align-content: baseline;
+}
+
+.grid-header {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 2;
+  grid-row-gap: 0px;
+}
+
+.grid-header .title {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.grid-header .author {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+footer {
+  font-size: 15px;
+  margin-bottom: 20px;
+  font-family: sans-serif;
+}
+
+footer p {
+  line-height: 170%;
+}
+
+footer #license {
+  font-size: 14px;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    rgba(175, 175, 175, 1),
+    rgba(175, 175, 175, 0)
+  );
+}

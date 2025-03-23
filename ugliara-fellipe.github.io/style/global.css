@@ -1,0 +1,69 @@
+/*
+Copyright 2020 Fellipe Augusto Ugliara
+
+Use of this source code is governed by an ISC license that can be found
+in the LICENSE file at https://github.com/ugliara-fellipe/ugliara-fellipe.github.io
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-size: 17px;
+  color: #555;
+  background-image: linear-gradient( #FFFFFF, #FAFCFD );
+  font-family: serif;
+}
+
+body {
+  min-height: 100vh;
+  width: 100vw;
+  max-width: 16.75cm;
+}
+
+header {
+  margin: 1em 0.7em 1em 0.7em;
+  font-size: 32px;
+  font-family: sans-serif;
+  font-variant: small-caps;
+}
+
+a {
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+a:visited {
+  color: #407FC7;
+}
+
+a:link {
+  color: #5995DA;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-image: linear-gradient(
+    to right, rgba(175,175,175,1) , rgba(175,175,175,0));
+}
+
+footer {
+  font-size: 16px;
+  margin: 2.5em 1.2em 2.5em 1.2em;
+  font-family: sans-serif;
+}
+
+footer p {
+  line-height: 170%;
+}
+
+footer #license {
+  font-size: 15px;
+}

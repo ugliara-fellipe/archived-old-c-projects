@@ -1,0 +1,32 @@
+
+# |<------ Preferably using up to 50 chars ------>|<------------------->|
+# <tag><group>: <subject> (Max 72 char)
+# --------------------
+# Examples:
+#   post(resume): Update description of last job
+#   update: Add a code example
+# --------------------
+# Tag can be:
+#   post      (add a new post)
+#   update    (update an existing post)
+#   home      (work in weblog home page)
+#   remove    (remove a post)
+#   repo      (repository details; license)
+#   wip       (work in progress; for intermediate commits)
+#   style     (change css files and icons)
+#
+# (Optional) Group is:
+#   (post id) The name of any repository internal folder that 
+#   contains a post, write the name between parentheses
+#   Examples: (compiler), (graph), or others
+# --------------------
+# Remember to:
+#   Capitalize the subject line
+#   Use the imperative mood in the subject line
+#   Do not end the subject line with a period
+# --------------------
+# Copyright 2020 Fellipe Augusto Ugliara
+#
+# Use of this source code is governed by an ISC license that can be found 
+# in the LICENSE file at https://github.com/ugliara-fellipe/weblog.pages
+# --------------------

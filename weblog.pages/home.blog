@@ -1,0 +1,91 @@
+#
+# Copyright 2020 Fellipe Augusto Ugliara
+#
+# Content on this file is licensed under the Creative Commons Attribution 
+# 4.0 International License. To view a copy of this license: visit 
+# http://creativecommons.org/licenses/by/4.0/, or search for the CONTENT 
+# file at https://github.com/ugliara-fellipe/weblog.pages
+#
+
+weblog
+  title [Writing Notebook]
+  brief [Weblog - Writing Notebook]
+  tags  [Mathematics,Philosophy,Profile,Storytelling]
+
+copyright
+  year  [2020]
+  owner [Fellipe Augusto Ugliara]
+
+license
+  link  [https://github.com/ugliara-fellipe/ugliara-fellipe.github.io]
+  type  [ISC]
+  file  [LICENSE]
+
+content
+  link  [https://github.com/ugliara-fellipe/ugliara-fellipe.github.io]
+  site  [http://creativecommons.org/licenses/by/4.0/]
+  type  [CC BY 4.0]
+  name  [Creative Commons Attribution 4.0 International License]
+  file  [CONTENT]
+
+post
+  size  [small]
+  date  [2021-01-28]
+  show  [January 28, 2021]
+  group [Profile]
+  path  [resume/resume.html]
+  title [Resume and Contact]
+
+note
+  size  [tiny]
+  text  [Site without JavaScript! Privacy first.]
+
+offsite
+  size  [normal]
+  date  [2018-12-18]
+  show  [December 18, 2018]
+  group [Profile]
+  link  [https://github.com/ugliara-fellipe]
+  title [Portfolio - Open Source Projects]
+
+post
+  size  [large]
+  date  [2021-08-07]
+  show  [August 07, 2021]
+  group [Mathematics]
+  path  [mathbooks/mathbooks.html]
+  title [Mathematics Library]
+  text  [Knowledge is an asset that must be accessible to everyone. This post ]
+        [list a set of free books, that is an option for who want to learn ]
+        [math and does not support the high costs of books available on the ]
+        [market. The books are organized into: elementary math, foundations ]
+        [and philosophy, pure math, history and recreation.]
+
+offsite
+  size  [small]
+  date  [2021-07-23]
+  show  [July 23, 2021]
+  group [Storytelling]
+  link  [uncovered/uncovered.pdf]
+  title [Uncovered]
+  text  [An open tabletop storytelling game, that not use probabilistic ]
+        [rules. It contains the "Uncovered" game scenery and "Tabloid Ruleset".]
+
+note
+  size  [normal]
+  title [Talk with Author]
+  text  [Here are posted my open works. All the contents are under permissive ]
+        [licenses. Feel free to email me about the published topics.^^]
+        [Author email:^ugliara.fellipe@gmail.com]
+
+offsite
+  size  [normal]
+  date  [2021-06-20]
+  show  [June 20, 2021]
+  group [Philosophy]
+  title [Metaphysical Investigation]
+  text  [The original article was written in Portuguese, and can be found ]
+        [{here ~ metaphysics/metafisica.pdf}. If reading in English is more ]
+        [comfortable, download this {version ~ metaphysics/metaphysics.pdf} ]
+        [of the article.]
+
